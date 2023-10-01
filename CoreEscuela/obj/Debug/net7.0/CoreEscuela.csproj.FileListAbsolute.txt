@@ -1,0 +1,14 @@
+D:\IsmaelRuge\Documents\Proyectos\Platzi\CoreEscuela\bin\Debug\net7.0\CoreEscuela.exe
+D:\IsmaelRuge\Documents\Proyectos\Platzi\CoreEscuela\bin\Debug\net7.0\CoreEscuela.deps.json
+D:\IsmaelRuge\Documents\Proyectos\Platzi\CoreEscuela\bin\Debug\net7.0\CoreEscuela.runtimeconfig.json
+D:\IsmaelRuge\Documents\Proyectos\Platzi\CoreEscuela\bin\Debug\net7.0\CoreEscuela.dll
+D:\IsmaelRuge\Documents\Proyectos\Platzi\CoreEscuela\bin\Debug\net7.0\CoreEscuela.pdb
+D:\IsmaelRuge\Documents\Proyectos\Platzi\CoreEscuela\obj\Debug\net7.0\CoreEscuela.GeneratedMSBuildEditorConfig.editorconfig
+D:\IsmaelRuge\Documents\Proyectos\Platzi\CoreEscuela\obj\Debug\net7.0\CoreEscuela.AssemblyInfoInputs.cache
+D:\IsmaelRuge\Documents\Proyectos\Platzi\CoreEscuela\obj\Debug\net7.0\CoreEscuela.AssemblyInfo.cs
+D:\IsmaelRuge\Documents\Proyectos\Platzi\CoreEscuela\obj\Debug\net7.0\CoreEscuela.csproj.CoreCompileInputs.cache
+D:\IsmaelRuge\Documents\Proyectos\Platzi\CoreEscuela\obj\Debug\net7.0\CoreEscuela.dll
+D:\IsmaelRuge\Documents\Proyectos\Platzi\CoreEscuela\obj\Debug\net7.0\refint\CoreEscuela.dll
+D:\IsmaelRuge\Documents\Proyectos\Platzi\CoreEscuela\obj\Debug\net7.0\CoreEscuela.pdb
+D:\IsmaelRuge\Documents\Proyectos\Platzi\CoreEscuela\obj\Debug\net7.0\CoreEscuela.genruntimeconfig.cache
+D:\IsmaelRuge\Documents\Proyectos\Platzi\CoreEscuela\obj\Debug\net7.0\ref\CoreEscuela.dll

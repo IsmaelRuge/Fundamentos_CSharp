@@ -1,0 +1,28 @@
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Etapa1\bin\Debug\net7.0\Etapa1.exe
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Etapa1\bin\Debug\net7.0\Etapa1.deps.json
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Etapa1\bin\Debug\net7.0\Etapa1.runtimeconfig.json
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Etapa1\bin\Debug\net7.0\Etapa1.dll
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Etapa1\bin\Debug\net7.0\Etapa1.pdb
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Etapa1\obj\Debug\net7.0\Etapa1.GeneratedMSBuildEditorConfig.editorconfig
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Etapa1\obj\Debug\net7.0\Etapa1.AssemblyInfoInputs.cache
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Etapa1\obj\Debug\net7.0\Etapa1.AssemblyInfo.cs
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Etapa1\obj\Debug\net7.0\Etapa1.csproj.CoreCompileInputs.cache
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Etapa1\obj\Debug\net7.0\Etapa1.dll
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Etapa1\obj\Debug\net7.0\refint\Etapa1.dll
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Etapa1\obj\Debug\net7.0\Etapa1.pdb
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Etapa1\obj\Debug\net7.0\Etapa1.genruntimeconfig.cache
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Etapa1\obj\Debug\net7.0\ref\Etapa1.dll
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Fundamentos C#\Etapa1\bin\Debug\net7.0\Etapa1.exe
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Fundamentos C#\Etapa1\bin\Debug\net7.0\Etapa1.deps.json
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Fundamentos C#\Etapa1\bin\Debug\net7.0\Etapa1.runtimeconfig.json
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Fundamentos C#\Etapa1\bin\Debug\net7.0\Etapa1.dll
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Fundamentos C#\Etapa1\bin\Debug\net7.0\Etapa1.pdb
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Fundamentos C#\Etapa1\obj\Debug\net7.0\Etapa1.GeneratedMSBuildEditorConfig.editorconfig
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Fundamentos C#\Etapa1\obj\Debug\net7.0\Etapa1.AssemblyInfoInputs.cache
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Fundamentos C#\Etapa1\obj\Debug\net7.0\Etapa1.AssemblyInfo.cs
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Fundamentos C#\Etapa1\obj\Debug\net7.0\Etapa1.csproj.CoreCompileInputs.cache
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Fundamentos C#\Etapa1\obj\Debug\net7.0\Etapa1.dll
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Fundamentos C#\Etapa1\obj\Debug\net7.0\refint\Etapa1.dll
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Fundamentos C#\Etapa1\obj\Debug\net7.0\Etapa1.pdb
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Fundamentos C#\Etapa1\obj\Debug\net7.0\Etapa1.genruntimeconfig.cache
+D:\IsmaelRuge\Documents\Proyectos\Platzi\Fundamentos C#\Etapa1\obj\Debug\net7.0\ref\Etapa1.dll
